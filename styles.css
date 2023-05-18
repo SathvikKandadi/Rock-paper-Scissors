@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(25,25,25);
+    color: white;
+}
+.icon{
+    height:50px;
+}
+.move{
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin: 3px;
+}
+.s{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.reset_score ,
+.auto_play{
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+}
